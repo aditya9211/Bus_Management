@@ -1,0 +1,8 @@
+sql="Insert ignore into student values('y14uc001','Aditya','0000',9460947653,'aditya@gmail.com','M','Computer Science',1)";
+			stmt.execute(sql);
+				
+		     sql="Insert ignore into student values('y14uc002','vinayak','0000',9460947653,'vinayak@gmail.com','M','Computer Science',1)";
+			stmt.execute(sql);
+	
+		     sql="Insert ignore into student values('y14uc003','coder','0000',9460947645,'coder@gmail.com','F','Electronics and Communation',1)";
+			stmt.execute(sql);
